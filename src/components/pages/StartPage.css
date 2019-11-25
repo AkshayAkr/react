@@ -1,0 +1,10 @@
+body, html {
+    height: 100%;
+    }
+    .bg {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44OId4jUgjayPHNRqfo9BBqjlcuFP-Z6PRq7ZcIA_4bfoFWFF");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }

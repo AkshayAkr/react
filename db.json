@@ -1,0 +1,723 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "ISBN": 1234567890,
+      "author": " Chetan Bhagat",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jplif0w0/book/1/4/6/one-indian-girl-original-imafbtyk8fsgwa8w.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "One Indian Girl"
+    },
+    {
+      "id": 2,
+      "ISBN": 1234567891,
+      "author": "J. K. Rowling",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jrdt8cw0/book/6/6/9/harry-potter-and-the-chamber-of-secrets-original-imaf48fkpcnrupwe.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 1,
+      "title": "Harry Potter and the Chamber of Secrets "
+    },
+    {
+      "ISBN": 1234567892,
+      "author": "Chandra Bipan",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/book/8/4/5/history-of-modern-india-original-imads8nsnfkfn4pr.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 1,
+      "title": "History of Modern India",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "ISBN": 1234567893,
+      "author": "Sharma Savi",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jfmuw7k0/book/3/9/2/this-is-not-your-story-original-imaf426qzjuychze.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "This is Not Your Story"
+    },
+    {
+      "id": 5,
+      "ISBN": 1234567894,
+      "author": "Asher Jay",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpr86fk0/book/7/7/2/thirteen-reasons-why-original-imafbxb7kdsw8dch.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 1,
+      "title": "Thirteen Reasons Why"
+    },
+    {
+      "id": 6,
+      "ISBN": 1234567895,
+      "author": "Rick Riordan",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpsnma80/book/2/0/7/heroes-of-olympus-the-house-of-hades-original-imaf5hhwbgywg78w.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Heroes of Olympus The House of Hades"
+    },
+    {
+      "id": 7,
+      "ISBN": 1234567896,
+      "author": "Ruskin Bond",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpmxuvk0/book/3/8/8/the-room-on-the-roof-original-imafbu2xeazdpdwt.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 1,
+      "title": "The Room on the Roof"
+    },
+    {
+      "id": "8",
+      "ISBN": 1234567897,
+      "author": "Novoneel Chakraborty",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpmxuvk0/book/4/9/0/forever-is-a-lie-original-imafbte2h4ykeyhm.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 1,
+      "title": "Forever Is a Lie "
+    },
+    {
+      "id": 9,
+      "ISBN": 1234567898,
+      "author": "J. K. Rowling",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/juk4gi80/book/6/9/0/harry-potter-and-the-order-of-the-phoenix-original-imaffngwextzpnpe.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 1,
+      "title": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "id": 10,
+      "ISBN": 1234567899,
+      "author": "Sharma Robin S",
+      "category": "Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jrmdvgw0/book/6/2/3/the-monk-who-sold-his-ferrari-original-imafddh7qpcgapgk.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "The Monk Who Sold His Ferrari "
+    },
+    {
+      "id": 11,
+      "ISBN": 1234567945,
+      "author": "Tiwari Arun",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/juk4gi80/book/4/6/6/wings-of-fire-original-imaffmk4gx5pxqvf.jpeg?q=100",
+      "isAvailable": "Yes",
+      "noofcopies": 1,
+      "title": "Wings of Fire "
+    },
+    {
+      "id": 12,
+      "author": "Savi Sharma",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/book/7/5/9/everyone-has-a-story-original-imaene6fesbdszsr.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Everyone Has A Story",
+      "ISBN": 1234567900
+    },
+    {
+      "id": 13,
+      "ISBN": 1234567901,
+      "author": "Divakaruni Chitra",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jph83gw0/book/5/3/5/the-palace-of-illusions-original-imafbpt5kn5xsxaz.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "The Palace of Illusions"
+    },
+    {
+      "id": 14,
+      "author": "Stephen Hawking",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/book/9/1/1/the-theory-of-everything-original-imadbgf6d45p2qzh.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "The Theory Of Everything"
+    },
+    {
+      "id": 15,
+      "author": "Ganguly Sourav",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jdbzcsw0/book/5/6/7/a-century-is-not-enough-original-imafftyf9uy7wqzy.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Century Is Not Enough",
+      "ISBN": 1234567903
+    },
+    {
+      "id": 16,
+      "author": "Sudha Murthy",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jph83gw0/book/0/5/5/three-thousand-stitches-original-imafbp4ypkfpyhzh.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Three Thousand Stitches",
+      "ISBN": 1234567904
+    },
+    {
+      "id": 17,
+      "author": "Jain Aparna",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jgwkzgw0/book/1/7/3/like-a-girl-original-imaf5fajubrrfmmd.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Like A Girl",
+      "ISBN": 1234567905
+    },
+    {
+      "id": 18,
+      "author": "Pillai Manu ",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jiovssw0/book/7/3/4/rebel-sultans-original-imaf6fndefq4hjea.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Rebels sultans",
+      "ISBN": 1234567906
+    },
+    {
+      "id": 19,
+      "author": "Bagwan Isaque",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpmxuvk0/book/1/4/8/me-against-the-mumbai-underworld-original-imafbtf6pfrumsaj.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Me against the Mumbai Underworld",
+      "ISBN": 1234567907
+    },
+    {
+      "id": 20,
+      "author": "Ravi Kumar",
+      "category": "Non Fiction",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jdkjzww0/book/7/8/9/the-free-voice-original-imaf2ge5gwef4yhn.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "The Free Voice: On Democracy",
+      "ISBN": 1234567908
+    },
+    {
+      "id": 21,
+      "author": "Venkatesan Chandramouli",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jc9egsw0/book/4/7/9/catalyst-original-imaff8zntzpv7cgp.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Catalyst  ",
+      "ISBN": 1234567909
+    },
+    {
+      "id": 22,
+      "author": "P. K. Viswanathan",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/j33br0w0/book/9/5/1/business-statistics-original-imaeuazzamezqnyg.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Business Statistics ",
+      "ISBN": 1234567910
+    },
+    {
+      "id": 23,
+      "author": "Lynch Peter",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpinjbk0/book/4/0/0/one-up-on-wall-street-original-imafbqhe8cfc9pxg.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "One Up On Wall Street",
+      "ISBN": 1234567910
+    },
+    {
+      "id": 24,
+      "author": "Raghuram G. Rajan",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jur9nrk0/book/3/9/8/the-third-pillar-how-markets-and-the-state-leave-the-community-original-imafdx3vju6bcwrd.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "The Third Pillar",
+      "ISBN": 1234567911
+    },
+    {
+      "id": 25,
+      "author": "Aswath Damodaran",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jb6tksw0/book/2/5/5/the-dark-side-of-valuation-valuing-young-distressed-and-complex-original-imafykxkwhbdejxz.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "The Dark Side of Valuation",
+      "ISBN": 1234567912
+    },
+    {
+      "id": 26,
+      "ISBN": 1234567913,
+      "author": "Halan Monika",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jur9nrk0/book/3/9/0/lets-talk-money-original-imaf5zevzfwsbgdc.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Lets Talk Money"
+    },
+    {
+      "id": 27,
+      "author": "Simon Sinek",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jur9nrk0/book/2/2/3/start-with-why-original-imaeyczzjrkmxzgs.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Start With Why ",
+      "ISBN": 1234567910
+    },
+    {
+      "id": 28,
+      "author": "Raghuram G. Rajan",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jur9nrk0/book/8/8/8/i-do-what-i-do-on-reform-rhetoric-and-resolve-original-imafaw57ze8axvsq.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "I Do What I Do: On Reform",
+      "ISBN": 1234567914
+    },
+    {
+      "id": 29,
+      "author": "Zhuo Julie",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jucz98w0/book/8/9/6/the-making-of-a-manager-original-imaffgwzhdatvcxh.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "The Making of a Manager",
+      "ISBN": 1234567910
+    },
+    {
+      "id": 30,
+      "author": "Charan Ram",
+      "category": "Business",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpmxuvk0/book/6/8/5/what-the-customer-wants-you-to-know-original-imafbtkgtf3sbujg.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "What the Customer Wants You to Know ",
+      "ISBN": 1234567915
+    },
+    {
+      "id": 31,
+      "author": "Sharma Arun",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/j70sccw0/book/9/4/8/how-to-prepare-for-logical-reasoning-for-common-admission-test-original-imaevq3kwhv3wqg4.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "How to Prepare for Logical Reasoning",
+      "ISBN": 1234567916
+    },
+    {
+      "id": 32,
+      "author": "Sharma Arun",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jh0vb0w0/book/1/9/7/how-to-prepare-for-verbal-ability-and-reading-comprehension-for-original-imaf5595fugkcsdj.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "How to Prepare for Verbal Ability",
+      "ISBN": 1234567917
+    },
+    {
+      "id": 33,
+      "author": "Laxmikanth",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jp5sknk0/book/6/3/3/indian-polity-original-imafbghjggfmqeef.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Indian Polity 5 Edition",
+      "ISBN": 1234567918
+    },
+    {
+      "id": 34,
+      "author": "Premkishan",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jmnrtzk0/book/7/5/7/how-to-crack-test-of-reasoning-revised-edition-original-imaf9gmhvhtdermd.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "How to Crack Test Of Reasoning",
+      "ISBN": 1234567919
+    },
+    {
+      "id": 35,
+      "ISBN": 1234567920,
+      "author": "Premkishan",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jjhglu80/book/5/3/1/wb-jee-engineering-entrance-exam-2019-solved-papers-2018-2007-original-imaf7ykmetnhwexs.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Wb Jee Engineering Solved Paper"
+    },
+    {
+      "id": 36,
+      "author": "Ramesh",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jfu03gw0/book/8/6/7/indian-economy-original-imaf47zhkpg49gus.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Indian Economy",
+      "ISBN": 1234567921
+    },
+    {
+      "id": 37,
+      "author": "ETS",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/book/2/0/9/official-toefl-ibt-tests-vol-2-w-dvd-original-imaedvgwzvmyvrkm.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Official Toefl Ibt Tests Vol.2",
+      "ISBN": 1234567922
+    },
+    {
+      "id": 38,
+      "author": "Arihant Expert",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jk5r3bk0/book/8/8/3/general-nursing-and-midwifery-entrance-examination-2018-original-imaf7gfrvkfwhsh6.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "General Nursing And Midwifery",
+      "ISBN": 1234567923
+    },
+    {
+      "id": 39,
+      "author": "Arihant Expert",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jqzitu80/book/8/1/9/pathfinder-cds-examination-conducted-by-upsc-original-imafcvp9yhuvhwx6.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Pathfinder CDS Entrance Examination ",
+      "ISBN": 1234567924
+    },
+    {
+      "id": 40,
+      "author": "Bhardwaj",
+      "category": "Management",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpsnma80/book/3/4/8/study-package-for-clat-ll-b-entrance-examinations-original-imafby2x8bevhduz.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Study Package for CLAT&LLB",
+      "ISBN": 1234567925
+    },
+    {
+      "id": 41,
+      "author": "Arihant Experts",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jua4djk0/book/0/6/6/ugc-net-jrf-slet-general-paper-1-teaching-and-research-aptitude-original-imafekyyyhwxkch5.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "UGC NET JRF SLET General Paper-1",
+      "ISBN": 1234567926
+    },
+    {
+      "id": 42,
+      "author": "Prashant Kumar",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jerf7gw0/book/5/1/4/ugc-net-life-science-original-imaf3dxyrakbmu6a.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "UGC NET Life Science",
+      "ISBN": 1234567927
+    },
+    {
+      "id": 43,
+      "author": "Dr Sharma Pawan",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpu324w0/book/4/9/1/ugc-net-mathematical-sciences-original-imafbz8gneg2pns6.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "UGC Net Mathematical Sciences",
+      "ISBN": 1234567928
+    },
+    {
+      "id": 44,
+      "author": "Chenglei W.Malemnganba",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpu324w0/book/4/7/7/ugc-net-physical-science-original-imafbzbtbgsryqmx.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "UGC Net Physical Science",
+      "ISBN": 1234567929
+    },
+    {
+      "id": 45,
+      "author": "Preeti Gupta",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jerf7gw0/book/4/8/4/ugc-net-chemical-science-original-imaf3dxzjbwcpnvn.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "UGC NET Chemical Science",
+      "ISBN": 1234567930
+    },
+    {
+      "id": 46,
+      "author": "Preeti Gupta",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jen4vww0/book/5/0/7/ugc-net-computer-science-and-applications-original-imaf3aaaenzgwssy.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "UGC Net Computer Science and Applications  ",
+      "ISBN": 1234567931
+    },
+    {
+      "id": 47,
+      "author": "Chetna Gupta",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jg9pxu80/regionalbooks/h/a/p/ugc-net-philosophy-original-imaf3dxz5wcpgv4a.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "UGC NET Philosophy",
+      "ISBN": 1234567932
+    },
+    {
+      "id": 48,
+      "author": "Aggarwal",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jkobte80/book/0/2/9/quantitative-aptitude-for-competitive-examinations-revised-2017-original-imaf7yymt2h8gyh2.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "ISBN": 1234567933
+    },
+    {
+      "id": 49,
+      "author": "Bakshi",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/jpu324w0/book/4/4/9/objective-general-english-original-imafbzag8ztfzfxc.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Objective General English ",
+      "ISBN": 1234567934
+    },
+    {
+      "id": 50,
+      "author": "Irodov",
+      "category": "Technology",
+      "imageLink": "https://rukminim1.flixcart.com/image/612/612/book/5/6/0/problems-in-general-physics-original-imaegg7nmr3xfhh5.jpeg?q=70",
+      "isAvailable": "Yes",
+      "noofcopies": 2,
+      "title": "Problems in General Physics",
+      "ISBN": 1234567935
+    }
+  ],
+  "user": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "noofbooks": 2,
+      "comments": [],
+      "bookid": [],
+      "id": 1
+    },
+    {
+      "name": "sanjay",
+      "email": "sanjay@gmail.com",
+      "password": "sanjay123",
+      "noofbooks": 2,
+      "bookid": [
+        {
+          "bid": "2",
+          "startdate": "2019-06-11T12:51:48.135Z",
+          "enddate": "2019-06-18T12:51:48.135Z"
+        },
+        {
+          "bid": "9",
+          "startdate": "2019-06-11T12:53:51.291Z",
+          "enddate": "2019-06-18T12:53:51.291Z"
+        }
+      ],
+      "allBooks": [
+        "2",
+        "9"
+      ],
+      "oldBookDetails": [
+        "1",
+        "1",
+        "2",
+        "9"
+      ],
+      "categories": [
+        "Business",
+        "Management"
+      ],
+      "comments": [
+        {
+          "bookid": "1",
+          "comments": "good",
+          "rating": 4
+        },
+        {
+          "bookid": "1",
+          "comments": "s",
+          "rating": 1
+        },
+        {
+          "bookid": "1",
+          "comments": "s",
+          "rating": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "kmar",
+      "email": "kumar@gmail.com",
+      "password": "kumar123",
+      "noofbooks": 2,
+      "bookid": [
+        {
+          "bid": "3",
+          "startdate": "2019-06-11T12:56:10.937Z",
+          "enddate": "2019-06-18T12:56:10.937Z"
+        },
+        {
+          "bid": "5",
+          "startdate": "2019-06-11T12:56:15.120Z",
+          "enddate": "2019-06-18T12:56:15.120Z"
+        }
+      ],
+      "allBooks": [
+        "3",
+        "5"
+      ],
+      "oldBookDetails": [
+        "1",
+        "3",
+        "5"
+      ],
+      "categories": [
+        "Management"
+      ],
+      "comments": [
+        {
+          "bookid": "1",
+          "comments": "okkk",
+          "rating": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "paul",
+      "email": "paul@gmail.com",
+      "password": "paulpaul",
+      "noofbooks": 2,
+      "bookid": [
+        {
+          "bid": "8",
+          "startdate": "2019-06-11T13:06:25.648Z",
+          "enddate": "2019-06-18T13:06:25.648Z"
+        },
+        {
+          "bid": "11",
+          "startdate": "2019-06-11T13:06:32.338Z",
+          "enddate": "2019-06-18T13:06:32.338Z"
+        }
+      ],
+      "allBooks": [
+        "8",
+        "11"
+      ],
+      "oldBookDetails": [
+        "8",
+        "11"
+      ],
+      "categories": [
+        "Business"
+      ],
+      "comments": [],
+      "id": 4
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmauil.nhd",
+      "password": "hxhxshddd",
+      "noofbooks": 0,
+      "bookid": [],
+      "allBooks": [],
+      "categories": [
+        "Technology"
+      ],
+      "oldBookDetails": [
+        "14",
+        "26",
+        "2",
+        "2",
+        "2",
+        "7"
+      ],
+      "comments": [
+        {
+          "bookid": "14",
+          "comments": "good book",
+          "rating": 4
+        },
+        {
+          "bookid": "26",
+          "comments": "k",
+          "rating": 1
+        },
+        {
+          "bookid": "2",
+          "comments": "good",
+          "rating": 5
+        },
+        {
+          "bookid": "2",
+          "comments": "sss",
+          "rating": 1
+        },
+        {
+          "bookid": "2",
+          "comments": "ok",
+          "rating": 1
+        },
+        {
+          "bookid": "7",
+          "comments": "good",
+          "rating": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "bruce",
+      "email": "bruce@darkknight.com",
+      "password": "iambatman",
+      "noofbooks": 1,
+      "bookid": [
+        {
+          "bid": "35",
+          "startdate": "2019-06-17T05:17:16.668Z",
+          "enddate": "2019-06-24T05:17:16.668Z"
+        }
+      ],
+      "allBooks": [
+        "35"
+      ],
+      "categories": [
+        "Fiction",
+        "Business"
+      ],
+      "oldBookDetails": [
+        "35",
+        "13",
+        "9"
+      ],
+      "comments": [
+        {
+          "bookid": "13",
+          "comments": "good",
+          "rating": 1
+        },
+        {
+          "bookid": "9",
+          "comments": "Nice",
+          "rating": 4
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
